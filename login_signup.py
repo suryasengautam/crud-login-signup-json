@@ -1,7 +1,5 @@
-from curses.ascii import isspace
 import json
 import os
-from re import sub
 # print(os.getcwd())
 ####sign_up function
 def sign_up():
